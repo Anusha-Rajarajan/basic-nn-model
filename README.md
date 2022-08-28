@@ -122,9 +122,11 @@ ai_brain.predict(input_scaled)
 ### New Sample Data Prediction
 
 SAMPLE INPUT
+
 ![output](./d4.png)
 
 SAMPLE OUTPUT
+
 ![output](./d5.png)
 
 
